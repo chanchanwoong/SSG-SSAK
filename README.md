@@ -4,15 +4,6 @@
 <img width="150" src="https://github.com/6-SSGSAKK/.github/assets/73014511/5b78e4bb-b3e9-46a9-ae4a-6c8ace2c3cc6">
 
 <br />
-<br />
-
-- 배포 URL : https://ssgssak.shop
-- Test ID : test12
-- Test PW : test001122
-
-- [백엔드 저장소](https://github.com/6-SSGSAKK/ssgsakk-be)
-
-<br />
 
 # 목차
 1. [프로젝트 개요](#1-프로젝트-개요)
