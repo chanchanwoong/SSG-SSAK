@@ -1,4 +1,4 @@
-# 🛒 SSG.COM 클론코딩
+# 🛒 쓱-싹 서비스
 
 <img width="150" src="https://github.com/6-SSGSAKK/.github/assets/73014511/da216ac2-21a3-4426-81a7-6192d2f24c30">
 <img width="150" src="https://github.com/6-SSGSAKK/.github/assets/73014511/5b78e4bb-b3e9-46a9-ae4a-6c8ace2c3cc6">
